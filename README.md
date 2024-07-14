@@ -29,9 +29,10 @@ python setup.py install --cuda_ext --cpp_ext
 
 ### Dataset
 
-need download from the source and then store in the Market folder
+Need download from the source and then store in the Market folder.
+
 Download [Market1501 Dataset](https://zheng-lab.cecs.anu.edu.au/Project/project_reid.html) [[Google]](https://drive.google.com/file/d/0B8-rUzbwVRk0c054eEozWG9COHM/view)
-Then:
+
 python prepare.py
 
 
