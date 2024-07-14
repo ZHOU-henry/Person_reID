@@ -38,7 +38,7 @@ python prepare.py
 
 ### Pre-train model
 
-Use some pre-train model.
+Use some pre-train model, e.g.: ResNet-50, Swin_transformer....
 
 ## Model
 
